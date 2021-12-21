@@ -11,10 +11,16 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/strapi": "4.0.0-beta.2",
-    "@strapi/plugin-users-permissions": "4.0.0-beta.2",
-    "@strapi/plugin-i18n": "4.0.0-beta.2",
-    "sqlite3": "5.0.2"
+    "sqlite3": "latest",
+    "@strapi/strapi": "latest",
+    "@strapi/admin": "latest",
+    "@strapi/plugin-users-permissions": "latest",
+    "@strapi/plugin-i18n": "latest",
+    "@strapi/utils": "latest",
+    "@strapi/provider-upload-local": "latest",
+    "@strapi/plugin-content-manager": "latest",
+    "@strapi/plugin-content-type-builder": "latest",
+    "@strapi/plugin-email": "latest",
   },
   "author": {
     "name": "A Strapi developer"
