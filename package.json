@@ -20,7 +20,7 @@
     "@strapi/provider-upload-local": "latest",
     "@strapi/plugin-content-manager": "latest",
     "@strapi/plugin-content-type-builder": "latest",
-    "@strapi/plugin-email": "latest",
+    "@strapi/plugin-email": "latest"
   },
   "author": {
     "name": "A Strapi developer"
