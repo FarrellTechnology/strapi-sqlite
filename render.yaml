@@ -1,7 +1,6 @@
 services:
   - type: web
     name: strapi
-    region: frankfurt
     env: node
     plan: starter
     buildCommand: yarn install && yarn build
